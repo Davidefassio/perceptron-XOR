@@ -7,4 +7,4 @@ The output is normalized using a modified version of the bell curve: y = exp(-3*
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=e^(x)" title="\Large x=e^(x)" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=exp(x)" title="\Large x=e^(x)" />
