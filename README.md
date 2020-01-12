@@ -1,4 +1,4 @@
-# perceptron-XOR
+# Perceptron-XOR
 It uses 2 inputs neurons and 1 output.
 
 The two weights are set to 1.
